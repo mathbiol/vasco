@@ -1,2 +1,2 @@
 # vasco
-Conversas com o Vasco Candeias
+Conversas com o Vasco Candeias, live at  https://mathbiol.github.io/vasco 
